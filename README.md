@@ -78,7 +78,7 @@ http://127.0.0.1:8000  /  http://localhost:8000
 
 | Encryption | Decryption | AI Analysis |
 |-----------|------------|-------------|
-| ![](./Encryption.png) | ![](./Decryption.jpg) | ![](./AI%20Analysis.png) |
+| ![](./Encryption.png) | ![](./Decryption.png) | ![](./AI%20Analysis.png) |
 
 ---
 
