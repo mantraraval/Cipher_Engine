@@ -76,11 +76,9 @@ http://127.0.0.1:8000  /  http://localhost:8000
 
 ## 🖼️ IV. Project Artifacts
 
-1. **Application Interface**
-![Interface](./interface.jpg)
-
-2. **Forensic Detection Output**
-![Detection](./detection.jpg)
+| Encryption | Decryption | AI Analysis |
+|-----------|------------|-------------|
+| ![](./Encryption.png) | ![](./Decryption.jpg) | ![](./AI%20Analysis.png) |
 
 ---
 
