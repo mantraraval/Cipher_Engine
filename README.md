@@ -88,5 +88,4 @@ http://127.0.0.1:8000  /  http://localhost:8000
 * **Ensures data integrity** by reliably recovering encoded messages from processed images.
 * **Automates forensic analysis** via Machine Learning to detect hidden statistical footprints.
 * **Simplifies complex cryptography** through an accessible, interactive Streamlit UI.
-* 
 
